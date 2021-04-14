@@ -4,5 +4,5 @@ Ce dossier contient des TPs effectués lors du cours de Base de Données du MS B
 - créations de tables/vues
 - mises à jour des tables
 - requêtes SQL
-- design d'une BD pour un réseau social : 
+- design d'une base de données pour un réseau social : 
 ![Design_Social_Network](Image/Design_Social_Network.PNG)
